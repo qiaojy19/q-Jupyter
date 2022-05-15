@@ -1,2 +1,2 @@
-# q-Jupyter-
-implement ideas in q-Knowledge
+# q-Jupyter
+
